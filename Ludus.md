@@ -1,4 +1,4 @@
-# Metodologia-Gestao Ludus
+# Metodologia de Gestão Ludus
 
 O presente trabalho foi conduzido para construção de um Mínimo Produto Viável (MVP) através do método Ludus. Este método foi criado com o objetivo de viabilizar a construção de um protótipo de um produto utilizando-se como base o objeto de pesquisa tratado no Trabalho de Conclusão de Curso (TCC) do aluno, a justificativa para utilização deste método e desenvolvimento do MVP é explorar ao máximo o esforço despendido na realização da pesquisa e, com isso, impactar a sociedade, academia e pesquisador com um produto inovador, oriundo da pesquisa científica, e rentável.
 
